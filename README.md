@@ -1,7 +1,3 @@
-### Hi there 👋
-
-I'm Davide aka davxy 
-
 - I like distributed systems, cryptography and applied cryptography
 - You can reach me via [mail](davxy(at)datawok(dot)net), [matrix](https://app.element.io/#/user/@davxy:matrix.org), [mastodon](https://mastodon.social/@davxy), [twitter](https://twitter.com/_davxy_)
 - From time to time I may post stuff on my [website](https://datawok.net)

@@ -5,9 +5,13 @@
 - I have very strong opinions about technology. Especially wrt freedom
 
 Addresses:
-- PGP: `9484AE9C0DE026ADF6A15A538F550699515C84CB`
-- PGP: `7954B83AAD67BC2092B2DF294FC3C19CF3EF0716`
+
 - KSM: `HyPMjWRHCpJS7x2SZ2R6M2XG5ZiCiZag4U4r7gBHRsE5mTc`
 - DOT: `16Q4qkRcWd4r8196dVGNLYVfy7H86MJYJBMockPaMigFXCyv`
+
+- pri | cert | ed25519 | 9484AE9C0DE026ADF6A15A538F550699515C84CB
+- sub | sign | ed25519 | A9DB468DF6E72CBACFABD1DA1072DA289B21507F
+- sub | auth | ed25519 | 5170D3182B209970FBB6CF0AE95FB548607777F7
+- sub | encr | cv25519 | 6E9E1AF980F08CB580F148E4EF4E1FB501474DC0
 
 Currently I mostly work on [Substrate](https://github.com/paritytech/substrate) as a Rust core engineer

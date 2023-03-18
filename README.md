@@ -14,4 +14,3 @@ PGP Keyring Fingerprints:
 - ENCR: `6E9E1AF980F08CB580F148E4EF4E1FB501474DC0`
 
 Currently I mostly work on [Substrate](https://github.com/paritytech/substrate) as a Rust core engineer
-ut 2p

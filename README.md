@@ -1,5 +1,5 @@
 - I like distributed systems, cryptography and applied cryptography
-- You can reach me via [mail](davxy(at)datawok(dot)net), [matrix](https://app.element.io/#/user/@davxy:matrix.org), [mastodon](https://mastodon.social/@davxy), [twitter (please use 🐘)](https://twitter.com/_davxy_)
+- You can reach me via [mail](davxy(at)datawok(dot)net), [matrix](https://app.element.io/#/user/@davxy:matrix.org), [mastodon](https://mastodon.social/@davxy), [twitter](https://twitter.com/_davxy_)
 - From time to time I may publish shitty stuff on my [website](https://datawok.net)
 - I have **very strong** opinions about technology. Especially wrt freedom
 

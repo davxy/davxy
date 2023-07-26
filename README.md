@@ -1,6 +1,6 @@
 - I like distributed systems, cryptography and applied cryptography
 - You can reach me via [mail](davxy(at)datawok(dot)net), [matrix](https://app.element.io/#/user/@davxy:matrix.org), [mastodon](https://mastodon.social/@davxy), [twitter](https://twitter.com/_davxy_)
-- From time to time I may publish shitty stuff on my [website](https://datawok.net)
+- From time to time I may publish some post on my [website](https://datawok.net) or some [gist](https://gist.github.com/davxy)
 - I have **very strong** opinions about technology. Especially wrt freedom
 
 Addresses:
@@ -14,5 +14,3 @@ PGP Keyring Fingerprints:
 - ENCR: `6E9E1AF980F08CB580F148E4EF4E1FB501474DC0`
 
 Currently I mostly work on [Substrate](https://github.com/paritytech/substrate) as a Rust core engineer
-
-From time to time I may sketch some [gist](https://gist.github.com/davxy/)

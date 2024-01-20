@@ -13,4 +13,4 @@ On-chain identities:
 - KSM: `HyPMjWRHCpJS7x2SZ2R6M2XG5ZiCiZag4U4r7gBHRsE5mTc`
 - DOT: `16Q4qkRcWd4r8196dVGNLYVfy7H86MJYJBMockPaMigFXCyv`
  
-Currently I mostly work on [Substrate](https://github.com/paritytech/polkadot-sdk) as a Rust core engineer
+Currently I mostly work on [Polkadot](https://github.com/paritytech/polkadot-sdk) as a Rust core engineer
